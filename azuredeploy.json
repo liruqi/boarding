@@ -41,6 +41,13 @@
         "description":
           "The Apple ID or Bundle Identifier of your app  (Required)"
       }
+    },
+    "ITC_APP_TESTER_GROUPS": {
+      "defaultValue": null,
+      "type": "string",
+      "metadata": {
+        "description": "The groups you want the invited to be placed in"
+      }
     }
   },
   "variables": {
